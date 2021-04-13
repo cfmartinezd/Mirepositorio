@@ -1,0 +1,64 @@
+.medidas {
+    width: 10;
+    height: 30;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+
+}
+.div {
+    display: flex;
+    justify-content: center;
+}
+
+.art1{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    width: 100px;
+    border: 3px rgb(182, 247, 30) ;
+    margin-right: 1rem;
+    background-color: yellow;
+}   
+
+.art2{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    width: 100px;
+    border: 3px rgb(113, 30, 247) ;
+    background-color: rgb(135, 71, 255);
+    margin-right: 1rem;
+}
+.art3{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    width: 100px;
+    border: 3px rgb(113, 30, 247) ;
+    background-color: rgb(99, 216, 210);
+    margin-right: 1rem;
+}
+.art4{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    width: 100px;
+    border: 3px rgb(113, 30, 247) ;
+    background-color: rgb(71, 255, 86);
+    margin-right: 1rem;
+}
